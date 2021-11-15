@@ -1,6 +1,6 @@
 # Info gost
 
-This is a lending page for Royal stables - luxury car wash located in Minsk
+This is a Multi-page site for Info Gost - information portal about certification.
 
 [Demo link <--](https://infogost.dammned.ru)
 
