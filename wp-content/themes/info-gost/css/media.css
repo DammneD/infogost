@@ -1,0 +1,355 @@
+@media screen and (max-width: 1200px) {
+	.offer {
+        width: auto;
+    }
+
+    .call__form  {
+        width: 470px;
+        margin-left: 20px;
+    }
+
+    .call__img {
+        right: 6%;
+    }
+
+    .form__content input {
+        width: 230px;
+    }
+
+    .call__textarea {
+        width: 470px;
+    }
+
+    .manufacturer__item img {
+        width: 90%;
+    }
+
+    .footer__phone {
+        margin-top: 10px;
+    }
+
+    .footer__phone span {
+        font-size: 22px;
+    }
+
+    .benefit__content {
+        width: 230px;
+    }
+}
+
+@media screen and (max-width: 992px) {	
+    
+    .offer__skills {
+        background: rgba(255,255,255, 0.81);
+        padding-bottom: 60px;
+        margin-top: 20px;
+    }
+
+    .call__form {
+        width: 95%;
+    }
+
+    .form__content input {
+        width: 49%;
+    }
+
+    .call__textarea {
+        width: 100%;
+    }
+
+    .call__img {
+        display: none;
+    }
+
+    .guarantee__patent {
+        right: 7%;
+    }
+
+    .footer__logo img {
+        width: 130px;
+    }
+
+    .footer__adress img {
+        width: 16px;
+    }
+
+    .footer__adress span {
+        font-size: 16px;
+    }
+
+    .footer__phone img {
+        width: 20px;
+    }
+    
+    .footer__phone span {
+        font-size: 16px;
+    }
+
+    .copyright {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .logo img {
+        width: 130px;
+        margin-left: 0;
+    }
+
+    .specialist {
+        width: 253px;
+        margin: 10px auto;
+    }
+
+    .phone img {
+        width: 22px;
+    }
+
+    .phone span {
+        font-size: 16px;
+        margin-top: 10px;
+    }
+
+    .offer {
+        margin-top: 90px;
+    }
+
+    .offer__skills {
+        margin-top: 60px;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    h3 {
+        font-size: 20px;
+        margin-top: 37px;
+        text-align: center;
+    }
+
+    .header__item span {
+        font-size: 18px;
+    }
+
+    
+
+    h2 {
+        font-size: 22px;
+    }
+
+    section {
+        padding-top: 50px;
+    }
+
+    .form__content {
+        display: block;
+    }
+
+    .form__content input {
+        width: 94%;
+    }
+
+    .call__textarea {
+        width: 94%;
+        height: auto;
+    }
+
+    .call__btn {
+        width: 94%;
+        font-size: 20px;
+    }
+
+    input[type=checkbox] + label {
+        font-size: 14px;
+    }
+
+    .services__item span {
+        font-size: 14px;
+    }
+
+    .guarantee__patent {
+        width: 100%;
+        height: 110px;
+        right: 0;
+        top: 85px;
+    }
+
+    .guarantee__content span {
+        font-size: 20px;
+        width: auto;
+    }
+
+    .guarantee__img {
+        margin-right: 0;
+        margin-left: 14px;
+    }
+
+    .guarantee__photo img {
+        width: 97%;
+    }
+
+    .benefit__content {
+        width: 180px;
+    }
+
+    .cost__content {
+        width: 95%;
+    }
+
+    .cost__title {
+        width: auto;
+    }
+
+    .cost__form {
+        width: 95%;
+    }
+
+    .cost__textarea {
+        width: 98%;
+    }
+
+    .cost__btn {
+        font-size: 18px;
+    }
+
+    .manufacturer {
+        padding-bottom: 0;
+    }
+
+    .manufacturer__list {
+        margin-top: 0;
+    }
+
+    .footer__logo {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+
+    .footer__phone {
+        text-align: center;
+    }
+
+    .copyright {
+        margin-top: 20px;
+    }
+}
+
+@media screen and (max-width: 570px) {	
+    .header {
+        background: url(../img/bg1.jpg) no-repeat left 25% top;
+        padding-top: 55px;
+        padding-bottom: 10px;
+    }
+
+    .phone span {
+        font-size: 25px;
+    }
+
+    .logo {
+        text-align: center;
+    }
+
+    .logo img {
+        width: 120px;
+    }
+
+    .phone {
+        justify-content: center;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    h3 {
+        font-size: 19px;
+    }
+
+    .header__item span {
+        font-size: 17px;
+        margin-top: -2px;
+    }
+
+    h2 {
+        font-size: 18px;
+    }
+
+    .form__content input {
+        font-size: 16px;
+    }
+
+    .call__title {
+        padding: 35px 0 25px 0px;
+    }
+
+    .call__textarea {
+        font-size: 16px;
+    }
+
+    input[type=checkbox] + label {
+        font-size: 12px;
+        margin-left: 35px;
+    }
+
+    .call__btn {
+        font-size: 16px;
+    }
+
+    .call__content {
+        padding-bottom: 40px;
+    }
+
+    .services__item img {
+        width: 25px;
+    }
+
+    .services__item span {
+        font-size: 16px;
+    }
+
+    .services__list {
+        margin-top: 40px;
+    }
+
+    .guarantee__content span {
+        font-size: 16px;
+    }
+
+    .benefit__content {
+        margin-top: 40px;
+    }
+
+    .cost__input {
+        font-size: 16px;
+    }
+
+    .cost__textarea {
+        font-size: 16px;
+    }
+
+    .cost__btn {
+        font-size: 16px;
+    }
+
+    .cost__content {
+        height: 640px;
+    }
+
+    .footer__adress span {
+        font-size: 15px;
+    }
+
+    .footer__phone span {
+        font-size: 15px;
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+}
+
+@media screen and (max-width: 320px) {
+
+}
+

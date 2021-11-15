@@ -1,0 +1,24 @@
+@font-face {
+	font-family: 'SegoiUI_Regular';
+	src: url('../fonts/SegoiUI_Regular.eot');
+	src: local('☺'), url('../fonts/SegoiUI_Regular.woff') format('woff'), url('../fonts/SegoiUI_Regular.ttf') format('truetype'), url('../fonts/SegoiUI_Regular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SegoeUI_Semibold';
+	src: url('../fonts/SegoeUI_Semibold.eot');
+	src: local('☺'), url('../fonts/SegoeUI_Semibold.woff') format('woff'), url('../fonts/SegoeUI_Semibold.ttf') format('truetype'), url('../fonts/SegoeUI_Semibold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'SegoiUI_Light';
+	src: url('fonts/SegoiUI_Light.eot');
+	src: local('☺'), url('../fonts/SegoiUI_Light.woff') format('woff'), url('../fonts/SegoiUI_Light.ttf') format('truetype'), url('../fonts/SegoiUI_Light.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
