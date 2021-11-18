@@ -16,7 +16,7 @@ Adaptive:
 
 - CMS WordPress
 - HTML
-- SCSS
+- CSS
 - JavaScript
 - JQuery
 - BEM
